@@ -83,8 +83,8 @@
 
             </tr>
             <td> First Aid</td>
-            <td> 75</td>
-            <td> C+ </td>
+            <td> 60</td>
+            <td> D </td>
             <td> CAAFIMAAD</td>
             <tr>
 
@@ -106,20 +106,20 @@
 
 </tr>
 <td> PHYSIOLOGY</td>
-<td> 85</td>
-<td> B+</td>
+<td> 90</td>
+<td> A</td>
 <td> CAAFIMAAD</td>
 <tr>
 </tr>
 <td> PHARMACOLOGY</td>
-<td> 100</td>
+<td> 95</td>
 <td> A+</td>
 <td> CAAFIMAAD</td>
 <tr>
 
 </tr>
 <td> NUTRITION</td>
-<td> 85</td>
+<td> 86</td>
 <td> B+</td>
 <td> CAAFIMAAD</td>
 <tr>
